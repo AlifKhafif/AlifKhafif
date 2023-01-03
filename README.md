@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlifKhafif
-- 👀 I’m interested in mobile developer and front end developer
-- 🌱 I’m currently learning Java & Kotlin
+- 👀 I’m interested in mobile development
+- 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
