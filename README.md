@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlifKhafif
 - 👀 I’m interested in mobile development
 - 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on ...
+<!--- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
