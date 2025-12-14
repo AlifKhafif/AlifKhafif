@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlifKhafif
-- 👀 I’m interested in mobile development
-- 🌱 I’m currently learning kotlin & flutter
+- 👀 I’m interested in mobile dev
+- 🌱 I’m currently learning kotlin, flutter, laravel & react.
 <!--- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
